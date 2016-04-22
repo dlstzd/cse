@@ -1,2 +1,2 @@
-# cse
-A repository for school assignments
+# CSE
+A repository for school assignments and code snippets.
